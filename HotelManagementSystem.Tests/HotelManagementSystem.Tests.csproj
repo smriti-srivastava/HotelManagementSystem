@@ -114,6 +114,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GetHotelSteps.cs" />
+    <Compile Include="GetHoteByIdlSteps.cs" />
     <Compile Include="HotelsApiCaller.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SpecFlowFeature1.feature.cs">
