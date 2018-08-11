@@ -8,11 +8,11 @@ using TechTalk.SpecFlow;
 namespace HotelManagementSystem.Tests
 {
     [Binding]
-    public class GetHotelSteps
+    public class GetAllHotelsSteps
     {
         
         List<Hotel> _hotelList;
-        private List<int> _addedHotels = AddHotelSteps.AddedIds;
+        private List<int> _addedHotelsId = AddHotelSteps.AddedIds;
 
         [When(@"User calls GetAllHotels api")]
         public void WhenUserCallsGetAllHotelsApi()
@@ -23,7 +23,7 @@ namespace HotelManagementSystem.Tests
         [Then(@"Reponse should have the details of all the hotels added")]
         public void ThenReponseShouldHaveTheDetailsOfHotelsAdded()
         {
-           foreach(int id in _addedHotels)
+           foreach(int id in _addedHotelsId)
             {
                 var hotel = _hotelList.Find(ht => ht.Id == id);
                 hotel.Should().NotBeNull(string.Format("Hotel with Id {0} is not present", hotel));

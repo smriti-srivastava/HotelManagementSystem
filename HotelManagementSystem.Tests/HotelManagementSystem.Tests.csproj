@@ -114,23 +114,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GetHotelSteps.cs" />
+    <Compile Include="GetAllHotelsSteps.cs" />
     <Compile Include="GetHoteByIdlSteps.cs" />
     <Compile Include="HotelsApiCaller.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SpecFlowFeature1.feature.cs">
+    <Compile Include="HotelManagement.feature.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>SpecFlowFeature1.feature</DependentUpon>
+      <DependentUpon>HotelManagement.feature</DependentUpon>
     </Compile>
     <Compile Include="AddHotelSteps.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-    <None Include="SpecFlowFeature1.feature">
+    <None Include="HotelManagement.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>SpecFlowFeature1.feature.cs</LastGenOutput>
+      <LastGenOutput>HotelManagement.feature.cs</LastGenOutput>
     </None>
   </ItemGroup>
   <ItemGroup>

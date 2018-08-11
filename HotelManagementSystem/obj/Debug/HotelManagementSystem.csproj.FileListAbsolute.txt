@@ -197,11 +197,9 @@ D:\Assignment\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagem
 D:\Assignment\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
 D:\Assignment\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.dll
 D:\Assignment\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
-C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\obj\Debug\HotelManagementSystem.dll
-C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\HotelManagementSystem.xml
-C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\ApplicationInsights.config
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\HotelManagementSystem.dll.config
+C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\HotelManagementSystem.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\HotelManagementSystem.dll
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\HotelManagementSystem.pdb
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\roslyn\csc.exe
@@ -294,5 +292,7 @@ C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\Micr
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\Microsoft.AI.Web.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\obj\Debug\HotelManagementSystem.dll
+C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb

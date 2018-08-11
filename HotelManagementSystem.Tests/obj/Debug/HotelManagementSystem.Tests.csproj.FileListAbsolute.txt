@@ -174,9 +174,6 @@ D:\Assignment\HotelManagementSystem\HotelManagementSystem.Tests\obj\Debug\HotelM
 D:\Assignment\HotelManagementSystem\HotelManagementSystem.Tests\obj\Debug\HotelManagementSystem.Tests.csproj.CopyComplete
 D:\Assignment\HotelManagementSystem\HotelManagementSystem.Tests\obj\Debug\HotelManagementSystem.Tests.dll
 D:\Assignment\HotelManagementSystem\HotelManagementSystem.Tests\obj\Debug\HotelManagementSystem.Tests.pdb
-C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\FluentAssertions.xml
-C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Net.Http.Formatting.xml
-C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Web.Razor.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\obj\Debug\HotelManagementSystem.Tests.csprojResolveAssemblyReference.cache
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\obj\Debug\HotelManagementSystem.Tests.csproj.HotelManagementSystem.Tests.dll.config
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\obj\Debug\HotelManagementSystem.Tests.csproj.CoreCompileInputs.cache
@@ -323,6 +320,7 @@ C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bi
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\HotelManagementSystem.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\HotelManagementSystem.dll.config
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\FluentAssertions.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\Microsoft.Extensions.Configuration.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
@@ -343,9 +341,11 @@ C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bi
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Web.Optimization.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Web.Mvc.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Web.Http.WebHost.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Web.WebPages.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Web.Razor.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\Antlr3.Runtime.pdb
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\ssrivastava\source\repos\HotelManagement\HotelManagementSystem.Tests\obj\Debug\HotelManagementSystem.Tests.dll
